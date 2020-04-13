@@ -5,16 +5,27 @@
 ## Books
 
 - JavaScript for impatient programmers
+
 [![](https://exploringjs.com/impatient-js/img-homepage/cover-homepage.jpg)](https://exploringjs.com/impatient-js/index.html)
+
 - The Manager`s Path
+
 [![](https://images-na.ssl-images-amazon.com/images/I/51BHEtpF4eL._SX331_BO1,204,203,200_.jpg)](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
+
 - A Seat at the Table: It Leadership in the Age of Agility
+
 [![](https://images-na.ssl-images-amazon.com/images/I/51x0YwoggUL._SX332_BO1,204,203,200_.jpg)](https://www.amazon.co.uk/Seat-Table-Leadership-Age-Agility/dp/1942788118)
+
 - Succeeding with Agile: Software Development Using Scrum
+
 [![](https://images-na.ssl-images-amazon.com/images/I/51N5qQ-t2aL._SX394_BO1,204,203,200_.jpg)](https://www.amazon.co.uk/Succeeding-Agile-Development-Addison-Wesley-Signature/dp/0321579364)
+
 - The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
+
 [![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473461230l/26083308._SY475_.jpg)](https://www.goodreads.com/book/show/26083308-the-devops-handbook)
+
 - Measure What Matters: OKRs: The Simple Idea That Drives 10x Growth
+
 [![](https://m.media-amazon.com/images/I/51YsowmALjL.jpg)](https://www.amazon.co.uk/Measure-What-Matters-Simple-Drives/dp/B07JKF24C1/ref=sr_1_1?crid=31ZXLFXHWKETP&dchild=1&keywords=measure+what+matters&qid=1586800144&s=books&sprefix=meas%2Cstripbooks%2C135&sr=1-1)
 
 
