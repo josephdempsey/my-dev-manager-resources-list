@@ -69,7 +69,7 @@
 
 - <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ" target="_blank">What the heck is the event loop anyway</a>
 - <a href="https://www.youtube.com/watch?v=Us6jaZoXgdU&list=PLBzScQzZ83I9uW36NnjX6Pe5P63EpEk_q&index=4" target="_blank">Setting Objectives and Key Results in your team</a>
-- <a href="https://www.youtube.com/watch?v=jA1Q94d2z10&t=72s" target="_blank">Setting Objectives and Key Results in your team</a>
+- <a href="https://www.youtube.com/watch?v=jA1Q94d2z10&t=72s" target="_blank">Creating a career ladder for engineers - Marco Rogers</a>
 
 
 > Blogs
