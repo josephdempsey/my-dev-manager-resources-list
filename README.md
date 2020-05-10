@@ -33,11 +33,21 @@
 
 ## Useful Resources
 
+> Development Related
+
+ - https://www.30secondsofcode.org/
+ - https://exploringjs.com/deep-js/
+ - https://github.com/trekhleb/javascript-algorithms/
+ - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+ - https://github.com/cheeaun/javascript-error-logging
+ - https://github.com/fbeline/design-patterns-JS
+
 > Devops Related
 
  - https://github.com/undergroundwires/AWS-in-bullet-points
  - https://github.com/donnemartin/system-design-primer/blob/master/README.md
  - https://web.devopstopologies.com/
+ - https://www.elastic.co/observability (Observability in a MS architecture)
 
 > Awesome lists
 
@@ -75,11 +85,28 @@
 - http://www.fullstackradio.com/
 - https://www.stitcher.com/podcast/plato/decisive-moments
 
+> Conferences/Meet ups
+
+- https://www.meetup.com/Engineering-Product-Leaders-London/
+- https://www.dotjs.io/
+- https://www.nodeconf.eu/
+- https://www.meetup.com/London-Microservices/
+- https://finjs.io/
+- https://www.meetup.com/torontojs/
+- https://www.meetup.com/IBM-Code-London/
+- https://www.meetup.com/DevOps-Exchange-London/
+- https://www.meetup.com/LNM-London-Node-JS-Meetup/
+- https://www.meetup.com/the-JS-Roundabout/
+
 > Tools
 
 - https://www.notion.so/product
 - https://feedly.com/i/latest
 - https://usepanda.com/app/#/
+- https://www.telerik.com/fiddler
+- https://getkap.co/
+- https://www.pluralsight.com/blog/platform/pluralsight-flow
+- https://www.sonarqube.org/
 
 > Certification 
 
