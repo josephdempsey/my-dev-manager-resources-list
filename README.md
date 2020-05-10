@@ -48,6 +48,20 @@
  - https://github.com/donnemartin/system-design-primer/blob/master/README.md
  - https://web.devopstopologies.com/
  - https://www.elastic.co/observability (Observability in a MS architecture)
+ 
+ > Management Related
+ - https://blog.trello.com/okrs-set-achieve-track-trello
+ - https://www.infoq.com/articles/transform-projects-products/
+ - https://medium.com/cs183c-blitzscaling-class-collection/scaling-airbnb-with-brian-chesky-class-18-notes-of-stanford-university-s-cs183c-3fcf75778358
+ - https://engmanagers.github.io/
+ - https://www.businessinsider.com/facebook-best-managers-exhibit-these-7-behaviors-2016-1?r=DE&IR=T
+ - https://hbr.org/2013/12/how-google-sold-its-engineers-on-management
+ - https://firstround.com/review/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite/
+
+ - https://github.com/undergroundwires/AWS-in-bullet-points
+ - https://github.com/donnemartin/system-design-primer/blob/master/README.md
+ - https://web.devopstopologies.com/
+ - https://www.elastic.co/observability (Observability in a MS architecture)
 
 > Awesome lists
 
