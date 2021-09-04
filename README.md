@@ -1,6 +1,112 @@
-# :mortar_board: My Dev Manager Resources List
+# :mortar_board: My Engineering & Management Recommended Resources List
 
 ***A place to dump lists of resources and recommendations.***
+
+# 2021
+
+## Books
+
+### Engineering
+
+- Team Topologies: Organizing Business and Technology Teams for Fast Flow
+
+[![](https://www.amazon.co.uk/images/I/515ymmKuFqL._SY346_.jpg)](https://www.amazon.co.uk/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PCl)
+
+- Accelerate: Building and Scaling High Performing Technology Organizations
+
+[![](https://www.amazon.co.uk/images/I/51CjXuVck+L.jpg)](https://www.amazon.co.uk/Accelerate-Building-Performing-Technology-Organizations/dp/B07BLYJ4HR/)
+
+- An Elegant Puzzle: Systems of Engineering Management
+
+[![](https://www.amazon.co.uk/images/I/51GWYSdK0QL.jpg)](https://www.amazon.co.uk/Elegant-Puzzle-Systems-Engineering-Management/dp/B07SHX9RJN/)
+
+
+- Staff Engineer: Leadership beyond the management track
+
+[![](https://www.amazon.co.uk/images/I/41FktfXuNIL._SX331_BO1,204,203,200_.jpg)](https://www.amazon.co.uk/Staff-Engineer-Leadership-beyond-management/dp/1736417916/)
+
+- Design Patterns for Cloud Native Applications: Patterns in Practice Using APIs, Data, Events, and Streams
+
+[![](https://www.amazon.co.uk/images/I/51-Mzqfzj2S._SX379_BO1,204,203,200_.jpg)](https://www.amazon.co.uk/Design-Patterns-Cloud-Native-Applications/dp/1492090719)
+
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+
+[![](https://www.amazon.co.uk/images/I/51ZSpMl1-LL._SX218_BO1,204,203,200_QL40_ML2_.jpg)](https://www.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
+
+### Business & Product
+
+- BANKING ON IT: How I Disrupted an Industry and Changed the Way We Manage our Money Forever
+
+[![](https://www.amazon.co.uk/images/I/517ZjnvCJrL._SY291_BO1,204,203,200_QL40_ML2_.jpg)](https://www.amazon.co.uk/BANKING-Disrupted-Industry-Changed-Forever/dp/0241453593/)
+
+- Reimagining Capitalism in a World on Fire: Shortlisted for the FT & McKinsey Business Book of the Year Award 2020
+
+[![](https://www.amazon.co.uk/images/I/51T5GGPwFFL._SX324_BO1,204,203,200_.jpg)](https://www.amazon.co.uk/Reimagining-Capitalism-World-Fire-Shortlisted/dp/0241379687/)
+
+- Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers
+
+[![](https://www.amazon.co.uk/images/I/41AJKOyiGML._SX330_BO1,204,203,200_.jpg)](https://www.amazon.co.uk/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986)
+
+- Product Roadmaps Relaunched: How to Set Direction While Embracing Uncertainty
+
+[![](https://www.amazon.co.uk/images/I/51MM-ojjthL._SY402_BO1,204,203,200_.jpg)](https://www.amazon.co.uk/Product-Roadmaps-Relaunched-Todd-Lombardo/dp/149197172X/)
+
+
+## Dev Jokes
+
+[![](../my-dev-manager-resources-list/resources/image_1a00e0b6-c335-43db-a38a-7c2364e0f79b20210821_091537.jpg)]()
+
+[![](../my-dev-manager-resources-list/resources/image_9a27ff46-8cf3-4466-a42b-1a8ac09eb75d20210717_181222.jpg)]()
+
+[![](../my-dev-manager-resources-list/resources/image_c2d3154f-7ffc-4ec1-9adc-650bf7c74f4c20210703_083532.jpg)]()
+
+## Useful Resources
+
+> AWS
+
+ - https://github.com/robm26/cost (DynamoDb Cost Modeling)
+ - https://www.serverlesslife.com/DynamoDB_Design_Patterns_for_Single_Table_Design.html (Single Table DynamoDb)
+ - https://www.youtube.com/watch?v=QhU_jozk-4o (Deep dive dynamoDb)
+
+> Development
+
+- https://dev.to/salah856/implementing-domain-driven-design-part-i-5a72 (Implementing domain-driven design)
+- https://patterns.arcitura.com/microservice-patterns (Micro services patterns)
+- https://stackoverflow.com/questions/3927537/how-do-you-implement-sorting-and-paging-on-distributed-data (How do you implement sorting and pagination on distributed data?)
+
+> Security
+
+- https://www.infoq.com/news/2021/05/continuous-security-testing/ (Continuous security testing)
+- https://blog.sqreen.com/serverless-security-apidays/ (Serverless security)
+- https://theburningmonk.com/2021/03/the-case-for-and-against-amazon-cognito/
+- https://aws.amazon.com/blogs/compute/building-well-architected-serverless-applications-managing-application-security-boundaries-part-2/?trk=global_employee_advocacy&sc_channel=sm&advocacy_source=everyonesocial&es_id=b51c68b8e3
+- https://dzone.com/articles/how-saml-20-authentication-works-amp-why-it-matter
+
+> Software Architecture
+
+- https://www.infoq.com/articles/architecture-trends-2021/ (Trends 2021)
+- https://medium.com/system-design-concepts/distributed-cache-system-design-9560f7dd07f2 (Designing a distributed cache system)
+- https://www.lightbend.com/akka-serverless (Stateful serverless solution)
+- https://wkrzywiec.medium.com/ports-adapters-architecture-on-example-19cab9e93be7 (Ports and Adapters by example)
+- https://www.serverless.com/blog/crdt-explained-supercharge-serverless-at-edge (CRDTs edge computing)
+
+> DevOps
+
+- https://www.gitops.tech/
+- https://github.com/bridgecrewio/checkov
+
+> Testing
+
+- https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/
+- https://www.youtube.com/watch?v=fWtuwGSoSOU (Infra CDK testing with jest)
+
+> Teams & leadership
+
+- https://medium.com/nick-tune-tech-strategy-blog/visualising-sociotechnical-architecture-with-ddd-and-team-topologies-48c6be036c40https://itrevolution.com/minimize-cognitive-load-of-teams/
+- https://bootcamp.uxdesign.cc/agile-manifesto-is-long-gone-we-need-a-product-manifesto-aec90699ee4e (Interesting article on agile/product lead development)
+- https://itrevolution.com/minimize-cognitive-load-of-teams/ (Cognitive Load on teams)
+
+# 2020
 
 ## Books
 
