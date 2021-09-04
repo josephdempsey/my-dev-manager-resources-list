@@ -54,11 +54,11 @@
 
 ## Dev Jokes
 
-[![](../my-dev-manager-resources-list/resources/image_1a00e0b6-c335-43db-a38a-7c2364e0f79b20210821_091537.jpg)]()
+[![](https://github.com/josephdempsey/my-dev-manager-resources-list/blob/master/resources/image_1a00e0b6-c335-43db-a38a-7c2364e0f79b20210821_091537.jpg?raw=true)]()
 
-[![](../my-dev-manager-resources-list/resources/image_9a27ff46-8cf3-4466-a42b-1a8ac09eb75d20210717_181222.jpg)]()
+[![](https://github.com/josephdempsey/my-dev-manager-resources-list/blob/master/resources/image_9a27ff46-8cf3-4466-a42b-1a8ac09eb75d20210717_181222.jpg?raw=true)]()
 
-[![](../my-dev-manager-resources-list/resources/image_c2d3154f-7ffc-4ec1-9adc-650bf7c74f4c20210703_083532.jpg)]()
+[![](https://github.com/josephdempsey/my-dev-manager-resources-list/blob/master/resources/image_c2d3154f-7ffc-4ec1-9adc-650bf7c74f4c20210703_083532.jpg?raw=true)]()
 
 ## Useful Resources
 
@@ -105,6 +105,7 @@
 - https://medium.com/nick-tune-tech-strategy-blog/visualising-sociotechnical-architecture-with-ddd-and-team-topologies-48c6be036c40https://itrevolution.com/minimize-cognitive-load-of-teams/
 - https://bootcamp.uxdesign.cc/agile-manifesto-is-long-gone-we-need-a-product-manifesto-aec90699ee4e (Interesting article on agile/product lead development)
 - https://itrevolution.com/minimize-cognitive-load-of-teams/ (Cognitive Load on teams)
+- https://www.thevirtualagilecoach.co.uk/post/funretrospectives-the-taco-tuesday-retro - Fun retrospective templates like taco tuesdays
 
 # 2020
 
